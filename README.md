@@ -13,15 +13,15 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
       </td>
       <td><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-30A3DC?style=for-the-badge&logo=facebook&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
-      <td><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-30A3DC?style=for-the-badge&logo=telegram">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <td><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-30A3DC?style=for-the-badge&logo=telegram&logoColor=blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
-      <td><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <td><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
     </tr>
     <tr>
-      <td><img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-30A3DC?style=for-the-badge&logo=gitlab&logoColor=white">
+      <td><img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-30A3DC?style=for-the-badge&logo=gitlab&logoColor=orange">
       </td>
-      <td><img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-30A3DC?style=for-the-badge&logo=whatsapp&logoColor=white">
+      <td><img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-30A3DC?style=for-the-badge&logo=whatsapp&logoColor=light-green">
       </td>
       <td><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-30A3DC?style=for-the-badge&logo=gmail&logoColor=red">
       </td>
@@ -35,9 +35,9 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
 <table>
   <tbody align="left">
     <tr>
-      <td><img align="center" alt="HTML5"  src="https://img.shields.io/badge/HTML5-30A3DC?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img align="center" alt="HTML5"  src="https://img.shields.io/badge/HTML5-30A3DC?style=for-the-badge&logo=html5&logoColor=red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td><img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-30A3DC?style=for-the-badge&logo=markdown">&nbsp;&nbsp;</td>
-      <td><img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-30A3DC?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-30A3DC?style=for-the-badge&logo=css3&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>  
     </tbody>
@@ -48,21 +48,21 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
   <tbody align="left">
     <tr>
       <td><img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-30A3DC?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td><img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-30A3DC?style=for-the-badge&logo=javascript&logoColor=black"></td>
+      <td><img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-30A3DC?style=for-the-badge&logo=javascript&logoColor=yellow"></td>
       <td><img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-30A3DC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;&nbsp;</td>
-      <td><img align="center" alt="Java" src="https://img.shields.io/badge/java-%2330A3DC.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img align="center" alt="Java" src="https://img.shields.io/badge/java-%2330A3DC.svg?style=for-the-badge&logo=openjdk&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
       <td><img align="center" alt="Python" src="https://img.shields.io/badge/python-30A3DC?style=for-the-badge&logo=python&logoColor=ffdd54"></td>
       <td><img align="center" alt="C" src="https://img.shields.io/badge/C-30A3DC?style=for-the-badge&logo=c&logoColor=white"></td>
-      <td><img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-30A3DC?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td><img align="center" alt="C#" src="https://img.shields.io/badge/C%23-30A3DC?style=for-the-badge&logo=c-sharp&logoColor=white"></td>
+      <td><img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-30A3DC?style=for-the-badge&logo=c%2B%2B&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img align="center" alt="C#" src="https://img.shields.io/badge/C%23-30A3DC?style=for-the-badge&logo=c-sharp&logoColor=purple"></td>
     </tr>
     <tr>
       <td><img align="center" alt="PL" <img alt="Static Badge" src="https://img.shields.io/badge/PL%2FSQL-%2330A3DC?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"></td>
-      <td><img align="center" alt="Ruby" <img alt="Static Badge" src="https://img.shields.io/badge/Ruby-30A3DC?style=for-the-badge&logo=ruby&logoColor=white"></td>
-      <td><img align="center" alt="Delphi" <img alt="Static Badge" src="https://img.shields.io/badge/Delphi-30A3DC?style=for-the-badge&logo=Delphi&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td><img align="center" alt="Perl" <img alt="Static Badge" src="https://img.shields.io/badge/perl-%2330A3DC.svg?style=for-the-badge&logo=perl&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img align="center" alt="Ruby" <img alt="Static Badge" src="https://img.shields.io/badge/Ruby-30A3DC?style=for-the-badge&logo=ruby&logoColor=red"></td>
+      <td><img align="center" alt="Delphi" <img alt="Static Badge" src="https://img.shields.io/badge/Delphi-30A3DC?style=for-the-badge&logo=Delphi&logoColor=red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img align="center" alt="Perl" <img alt="Static Badge" src="https://img.shields.io/badge/perl-%2330A3DC.svg?style=for-the-badge&logo=perl&logoColor=darkblue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
       <td><img align="center" alt="YAML" <img alt="Static Badge" src="https://img.shields.io/badge/yaml-%2330A3DC.svg?style=for-the-badge&logo=yaml&logoColor=151515"></td>
@@ -80,16 +80,16 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
   <tbody align="left">
     <tr>
       <td>
-        <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-30A3DC?style=for-the-badge&logo=angular&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-30A3DC?style=for-the-badge&logo=angular&logoColor=red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
         <img align="center" alt="Express" src="https://img.shields.io/badge/express.js-%2330A3DC.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;
       </td>
       <td>
-        <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-boostrap-30A3DC?style=for-the-badge&logo=bootstrap&labelColor=0D1117">&nbsp;&nbsp;
+        <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-boostrap-30A3DC?style=for-the-badge&logo=bootstrap&logoColor=magenta">&nbsp;&nbsp;
       </td>
       <td>
-        <img align="center" alt="Flask" src="https://img.shields.io/badge/flask-%2330A3DC.svg?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="Flask" src="https://img.shields.io/badge/flask-%2330A3DC.svg?style=for-the-badge&logo=flask&logoColor=cyan">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>      
     </tr>
    <tr>
@@ -97,13 +97,13 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
         <img align="center" alt="Laravel" src="https://img.shields.io/badge/laravel-%2330A3DC.svg?style=for-the-badge&logo=laravel&logoColor=white">
       </td>
       <td>
-        <img align="center" alt="Symfony" src="https://img.shields.io/badge/symfony-%2330A3DC.svg?style=for-the-badge&logo=symfony&logoColor=white">
+        <img align="center" alt="Symfony" src="https://img.shields.io/badge/symfony-%2330A3DC.svg?style=for-the-badge&logo=symfony&logoColor=black">
       </td>
       <td>
-        <img align="center" alt="Rails" src="https://img.shields.io/badge/rails-%2330A3DC.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+        <img align="center" alt="Rails" src="https://img.shields.io/badge/rails-%2330A3DC.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=red">
       </td>
       <td>
-        <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%2330A3DC.svg?style=for-the-badge&logo=spring&logoColor=white">
+        <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%2330A3DC.svg?style=for-the-badge&logo=spring&logoColor=lightgreen">
       </td>
    </tr>   
   </tbody>
@@ -114,7 +114,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
   <tbody align="left">
     <tr>
       <td>
-        <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-30A3DC?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-30A3DC?style=for-the-badge&logo=mysql&logoColor=darkblue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
         <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-30A3DC?style=for-the-badge&logo=sqlite&logoColor=07405E">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -123,12 +123,12 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
         <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-30A3DC?style=for-the-badge&logo=postgresql">&nbsp;&nbsp;
       </td>
       <td>
-        <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-30A3DC?style=for-the-badge&logo=mariadb&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-30A3DC?style=for-the-badge&logo=mariadb&logoColor=brown">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>      
     </tr>  
     <tr>
       <td>
-        <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-30A3DC?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-30A3DC?style=for-the-badge&logo=Oracle&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
       </td>
@@ -146,10 +146,10 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
   <tbody align="left">
     <tr>
       <td>
-         <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-30A3DC?style=for-the-badge&logo=firebase">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-30A3DC?style=for-the-badge&logo=firebase&logoColor=red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-         <img align="center" alt="Heroku" src="https://img.shields.io/badge/heroku-%2330A3DC.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <img align="center" alt="Heroku" src="https://img.shields.io/badge/heroku-%2330A3DC.svg?style=for-the-badge&logo=heroku&logoColor=blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
