@@ -56,7 +56,7 @@
 
 ## 💼 Experiência Profissional (Hard Skills)
 
-Durante os anos, tive a oportunidade de atuar desde a infraestrutura (manutenção de computadores, conexão de redes, configuração de roteadores, switchese servidores Windows Server e Linux) até o desenvolvimento de sistemas complexos (DBA, Engenharia de Software, POO, etc). </br>
+Durante os anos, tive a oportunidade de atuar desde a infraestrutura (manutenção de computadores, conexão de redes, configuração de roteadores, switches e servidores Windows Server e Linux) até o desenvolvimento de sistemas complexos (DBA, Engenharia de Software, POO, etc). </br>
 [Over the years, I have had the opportunity to work in everything from infrastructure (computer maintenance, network connections, router, switch and Windows Server and Linux server configuration) to the development of complex systems (DBA, Software Engineering, OOP, etc.).]
 
 ### 1.   Linguagens de Marcação e Estilo [Markup and Style Languages]
