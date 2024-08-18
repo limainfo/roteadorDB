@@ -22,14 +22,14 @@
 <table>
   <tbody align="left">
     <tr>
-      <td><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
+      <td><a href="https://www.linkedin.com/in/evaldo-lima-175067219/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-30A3DC?style=for-the-badge&logo=facebook&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-30A3DC?style=for-the-badge&logo=telegram&logoColor=blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
-      <td><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </td>
+      <td><a href="https://github.com/limainfo"><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=black"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </td>  
     </tr>
     <tr>
       <td><img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-30A3DC?style=for-the-badge&logo=gitlab&logoColor=orange">
