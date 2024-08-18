@@ -2,8 +2,20 @@
 
 
 ## 👋🏻 Evaldo de Souza Lima
+♊ 2008</br>
+💻 Licenciatura em Computação [Bachelor's Degree in Computing] - [Universidade Estadual do Amazonas](https://cursos2.uea.edu.br/index.php?dest=info&curso=72).</br>
+♊ 2008</br>
+💻 Pós graduação em Engenharia de Sistemas [Postgraduate degree in Systems Engineering] - [ESAB].</br>
+♊ 2024</br>
+💻 Pós graduação em Inteligência Artificial [Bachelor's Degree in Computing] - [Universidade Estadual do Amazonas](https://cursos2.uea.edu.br/index.php?dest=info&curso=72).</br>
+🏠 I’m currently living in Brasília - DF , Brazil 🇧🇷. <br/>
+🔭 I’m looking to improve myself and solve problems around me.<br/>
+👄 I speak Portuguese and English.</br>
+💬 Trying to learn Greek and Hebraic. `trying my best`<br/>
+👥 I am a startup enthusiast, love to talk about new projects and real problems.</br> 
+👽 People consider me a proactive, creative guy and a problem solver .</br>
+🚪 Always open to new challenges and projects.</br>
 
-Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
 
 ## Conecte-se comigo
 <table>
@@ -31,19 +43,34 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
   </tbody>
 </table>
 
-## Linguagens de Marcação e Estilo
+## Soft Skills
+
+- Curiosidade
+- Perfil Análitico
+- Ivestigativo
+- Fácil Adaptabilidade
+- Confiabilidade
+- Aprendizado Contínuo
+- Trabalho em equipe
+
+
+## 💼 Experiência Profissional (Hard Skills)
+
+Minhas experiências mais recentes estão relacionadas ao atendimento ao cliente, análise de laboratório, operação de sistemas de caixas e uma pequena experiência em liderança de equipe. Essas experiências me ajudaram a aprimorar minhas habilidades técnicas e interpessoais.
+
+### 1.   Linguagens de Marcação e Estilo [Markup and Style Languages]
 <table>
   <tbody align="left">
     <tr>
-      <td><img align="center" alt="HTML5"  src="https://img.shields.io/badge/HTML5-30A3DC?style=for-the-badge&logo=html5&logoColor=red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img align="center" alt="HTML5"  src="https://img.shields.io/badge/HTML5-30A3DC?style=for-the-badge&logo=html5&logoColor=red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td><img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-30A3DC?style=for-the-badge&logo=markdown">&nbsp;&nbsp;</td>
-      <td><img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-30A3DC?style=for-the-badge&logo=css3&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-30A3DC?style=for-the-badge&logo=css3&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
       <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>  
     </tbody>
 </table>
 
-## Linguagens de Programação
+### 2.   Linguagens de Programação [Programming Languages]
 <table>
   <tbody align="left">
     <tr>
@@ -66,16 +93,16 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
     </tr>
     <tr>
       <td><img align="center" alt="YAML" <img alt="Static Badge" src="https://img.shields.io/badge/yaml-%2330A3DC.svg?style=for-the-badge&logo=yaml&logoColor=151515"></td>
-      <td><img align="center" alt="BashScript" <img alt="Static Badge" src="https://img.shields.io/badge/bash%20script-30A3DC?style=flat&logo=gnubash&labelColor=%23000000"></td>
-      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td><img align="center" alt="BashScript" <img alt="Static Badge" src="https://img.shields.io/badge/bash%20script-30A3DC?style=for-the-badge&logo=gnubash&logoColor=black"></td>
+      <td><img align="center" alt="Assembler" <img alt="Static Badge" src="https://img.shields.io/badge/assembler-30A3DC?style=for-the-badge&logo=assembler&logoColor=black"></td>
+      <td><img align="center" alt="Cold Fusion" <img alt="Static Badge" src="https://img.shields.io/badge/cold%20fusion-30A3DC?style=for-the-badge&logo=coldfusion&logoColor=black"></td>
     </tr>    
     </tbody>
 </table>
 
 
 
-## Bibliotecas e Frameworks
+### 3.   Bibliotecas e Frameworks [Libraries and Frameworks]
 <table>
   <tbody align="left">
     <tr>
@@ -83,10 +110,10 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
         <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-30A3DC?style=for-the-badge&logo=angular&logoColor=red">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-        <img align="center" alt="Express" src="https://img.shields.io/badge/express.js-%2330A3DC.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;
+        <img align="center" alt="Express" src="https://img.shields.io/badge/express.js-%2330A3DC.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
       </td>
       <td>
-        <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-boostrap-30A3DC?style=for-the-badge&logo=bootstrap&logoColor=magenta">&nbsp;&nbsp;
+        <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-boostrap-30A3DC?style=for-the-badge&logo=bootstrap&logoColor=magenta">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
         <img align="center" alt="Flask" src="https://img.shields.io/badge/flask-%2330A3DC.svg?style=for-the-badge&logo=flask&logoColor=cyan">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -109,7 +136,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
   </tbody>
 </table>
 
-## Banco de Dados
+### 4.   Banco de Dados [Database]
 <table>
   <tbody align="left">
     <tr>
@@ -120,7 +147,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
         <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-30A3DC?style=for-the-badge&logo=sqlite&logoColor=07405E">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-        <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-30A3DC?style=for-the-badge&logo=postgresql">&nbsp;&nbsp;
+        <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-30A3DC?style=for-the-badge&logo=postgresql">&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
         <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-30A3DC?style=for-the-badge&logo=mariadb&logoColor=brown">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -141,7 +168,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
 </table>
 
 
-## Cloud Computing Service
+### 5.   Cloud Computing Service
 <table>
   <tbody align="left">
     <tr>
@@ -152,7 +179,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
          <img align="center" alt="Heroku" src="https://img.shields.io/badge/heroku-%2330A3DC.svg?style=for-the-badge&logo=heroku&logoColor=blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -162,7 +189,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
 </table>
 
 
-## Sistema Operacional
+### 6.   Sistema Operacional [Operating System]
 
 <table>
   <tbody align="left">
@@ -174,7 +201,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
         <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-30A3DC?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-        <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-30A3DC?style=for-the-badge&logo=ubuntu&logoColor=orange">
+        <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-30A3DC?style=for-the-badge&logo=ubuntu&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
         <img align="center" alt="Kali" src="https://img.shields.io/badge/Kali-30A3DC?style=for-the-badge&logo=kalilinux&logoColor=darkblue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -198,8 +225,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
       <td>
         <img align="center" alt="iOS" src="https://img.shields.io/badge/iOS-30A3DC?style=for-the-badge&logo=ios&logoColor=white">
       </td>
-      <td>
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <td><img align="center" alt="Cisco" src="https://img.shields.io/badge/cisco-%2330A3DC.svg?style=for-the-badge&logo=cisco&logoColor=black">
       </td>
       <td>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -212,7 +238,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
   <tfoot></tfoot>
 </table>
 
-## Ferramentas
+### 7.   Ferramentas [Tools]
 <table>
   <tbody align="left">
     <tr>
@@ -223,7 +249,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
          <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-30A3DC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-         <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-30A3DC?style=for-the-badge&logo=node.js&logoColor=green">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-30A3DC?style=for-the-badge&logo=node.js&logoColor=green">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
         <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-30A3DC.svg?style=for-the-badge&logo=Postman&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -236,7 +262,7 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
 
 
 
-## Frameworks, Platforms and Libraries
+### 8.   Frameworks, Platforms and Libraries
 <table>
   <tbody align="left">
     <tr>
@@ -244,10 +270,10 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
          <img align="center" alt="Joomla" src="https://img.shields.io/badge/joomla-%2330A3DC.svg?style=for-the-badge&logo=joomla&logoColor=lightred">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-         <img align="center" alt="Moodle" src="https://img.shields.io/badge/moodle-%2330A3DC.svg?style=for-the-badge&logo=moodle&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <img align="center" alt="Moodle" src="https://img.shields.io/badge/moodle-%2330A3DC.svg?style=for-the-badge&logo=moodle&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -259,27 +285,29 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
 
 
 
-## 💼 Experiência Profissional
+### 9.   Certificações em andamento [Certifications in progress]
+<table>
+  <tbody align="left">
+    <tr>
+      <td>
+         <img align="center" alt="Java SE 11" src="https://img.shields.io/badge/java-%2330A3DC.svg?style=for-the-badge&logo=openjdk&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </td>
+      <td>
+         <img align="center" alt="Linux Essentials" src="https://img.shields.io/badge/linux-%2330A3DC.svg?style=for-the-badge&logo=linux&logoColor=darkblue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </td>
+      <td>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </td>
+      <td>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </td>      
+    </tr>       
+  </tbody>
+</table>
 
-Minhas experiências mais recentes estão relacionadas ao atendimento ao cliente, análise de laboratório, operação de sistemas de caixas e uma pequena experiência em liderança de equipe. Essas experiências me ajudaram a aprimorar minhas habilidades técnicas e interpessoais.
 
 
 
-
-
-#  👋❤️ [About me](https://github.com/7131HDMC)
-
-🐍 Hari Dasa Fiuza, the last one of my crazy parents.</br>
-♊ 2001</br>
-💻 Computer Technician - [Federal Center for Technological Education of Minas Gerais](https://www.cefetmg.br).</br>
-🏠 I’m currently living in Belo Horizonte - MG , Brazil 🇧🇷. <br/>
-🎯 I’m a Software Engineer , ML Engineer.<br/>
-🔭 I’m looking to improve myself and solve problems around me.<br/>
-👄 I speak Portuguese, English, Spanish and Japanese.</br>
-💬 Trying to learn Japanese. `trying my best`<br/>
-👥 I am a startup enthusiast, love to talk about new projects and real problems.</br> 
-👽 People consider me a proactive, creative guy and a problem solver .</br>
-🚪 Always open to new challenges and projects.</br>
 
 
 ## Projetos
@@ -290,108 +318,11 @@ Minhas experiências mais recentes estão relacionadas ao atendimento ao cliente
 [❌ Jogo da velha - javascript](https://github.com/7iagoCabral/tic-tac-toe-Jogo-da-velha-)<br>
 [🚀 NASA - Foto Astronômica do Dia - React, Tailwindcss, Api rest ](https://github.com/7iagoCabral/nasa-apod-Imagem-Astronomica-do-Dia)<br>
 
-  <div style="order: 5">
-
-  ### I've already had contact with these technologies (either books, courses, personal or professional projects):
-
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![ESP32](https://img.shields.io/badge/espressif-000?style=for-the-badge&logo=espressif)
-![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=30A3DC)
-![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
-![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
-![Postgresql](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
-![Mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
-![redis](https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis)
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.JS)
-![NGINX](https://img.shields.io/badge/nginx-000?style=for-the-badge&logo=nginx)
-![flutter](https://img.shields.io/badge/flutter-000?style=for-the-badge&logo=flutter)
-![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
-![django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=Cplusplus)
-![Delphi](https://img.shields.io/badge/delphi-000?style=for-the-badge&logo=delphi)
-
-
-  </div>
-  
-
-
-
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-      <th>Materiais de Apoio</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Introdução ao Lab</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Formas de Contribuir num Projeto Open Source</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>
-      <td align="center">
-        <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+ 
 
 ---
 
-## Soft Skills
 
-- Curiosidade
-- Perfil Análitico
-- Ivestigativo
-- Fácil Adaptabilidade
-- Confiabilidade
-- Aprendizado Contínuo
-- Trabalho em equipe
-
-## Hard Skills
-
-- Graduação em Marketing 
-- Mestrados em Gestão Estratégica
 
 
 
