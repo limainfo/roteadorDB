@@ -1,23 +1,24 @@
+[![Typing SVG](http://readme-typing-svg.herokuapp.com/?color=000033&size=35&center=true&cCenter=true&width=1000&lines=I`M+FROM+BRAZIL+I+AM+A+SOFTWARE+ENGINEERING;BE+WELCOME!)](https://git/io/typing-svg)
 
 
 
 ## 👋🏻 Evaldo de Souza Lima
 ♊ 2008</br>
 💻 Licenciatura em Computação [Bachelor's Degree in Computing] - [Universidade Estadual do Amazonas](https://cursos2.uea.edu.br/index.php?dest=info&curso=72).</br>
-♊ 2008</br>
+♊ 2011</br>
 💻 Pós graduação em Engenharia de Sistemas [Postgraduate degree in Systems Engineering] - [ESAB].</br>
 ♊ 2024</br>
-💻 Pós graduação em Inteligência Artificial [Bachelor's Degree in Computing] - [Universidade Estadual do Amazonas](https://cursos2.uea.edu.br/index.php?dest=info&curso=72).</br>
+💻 Pós graduação em Inteligência Artificial [Postgraduate Degree in IA] - [Universidade Focus].</br>
 🏠 I’m currently living in Brasília - DF , Brazil 🇧🇷. <br/>
 🔭 I’m looking to improve myself and solve problems around me.<br/>
 👄 I speak Portuguese and English.</br>
 💬 Trying to learn Greek and Hebraic. `trying my best`<br/>
 👥 I am a startup enthusiast, love to talk about new projects and real problems.</br> 
 👽 People consider me a proactive, creative guy and a problem solver .</br>
-🚪 Always open to new challenges and projects.</br>
+🚪 Always open to new challenges and projects.</br></br>
 
 
-## Conecte-se comigo
+## :phone: Conecte-se comigo
 <table>
   <tbody align="left">
     <tr>
@@ -41,18 +42,17 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table></br>
 
-## Soft Skills
-
-- Curiosidade
-- Perfil Análitico
-- Ivestigativo
-- Fácil Adaptabilidade
-- Confiabilidade
-- Aprendizado Contínuo
-- Trabalho em equipe
-
+## :expressionless: Soft Skills
+**&nbsp;&nbsp;&nbsp;&nbsp;1.**   Curiosidade [**Curiosity**]</br></br>
+**&nbsp;&nbsp;&nbsp;&nbsp;2.**   Perfil Análitico [**Analytical Profile**]</br></br>
+**&nbsp;&nbsp;&nbsp;&nbsp;3.**   Ivestigativo [**Investigative**]</br></br>
+**&nbsp;&nbsp;&nbsp;&nbsp;4.**   Fácil Adaptabilidade [**Easy Adaptability**]</br></br>
+**&nbsp;&nbsp;&nbsp;&nbsp;5.**   Confiabilidade [**Reliability**]</br></br>
+**&nbsp;&nbsp;&nbsp;&nbsp;6.**   Aprendizado Contínuo [**Continuous Learning**]</br></br>
+**&nbsp;&nbsp;&nbsp;&nbsp;7.**   Trabalho em equipe [**Teamwork**]</br></br>
+</br>
 
 ## 💼 Experiência Profissional (Hard Skills)
 
@@ -235,7 +235,6 @@ Minhas experiências mais recentes estão relacionadas ao atendimento ao cliente
       </td>      
     </tr>
   </tbody>
-  <tfoot></tfoot>
 </table>
 
 ### 7.   Ferramentas [Tools]
@@ -256,7 +255,6 @@ Minhas experiências mais recentes estão relacionadas ao atendimento ao cliente
       </td>      
     </tr>
   </tbody>
-  <tfoot></tfoot>
 </table>
 
 
@@ -276,7 +274,7 @@ Minhas experiências mais recentes estão relacionadas ao atendimento ao cliente
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>      
     </tr>       
   </tbody>
@@ -299,76 +297,19 @@ Minhas experiências mais recentes estão relacionadas ao atendimento ao cliente
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>      
     </tr>       
   </tbody>
 </table>
 
 
-
-
-
-
-## Projetos
-
-[🏛️ Blog Museu Nacional - Angular ](https://github.com/7iagoCabral/blog-museum-angular)<br>
-[✅ BuzzFeed - Angular ](https://github.com/7iagoCabral/angular_buzzfeed_quizz)<br>
-[🐦 PokeStore - React, Sass, Redux](https://github.com/7iagoCabral/pokestore)<br>
-[❌ Jogo da velha - javascript](https://github.com/7iagoCabral/tic-tac-toe-Jogo-da-velha-)<br>
-[🚀 NASA - Foto Astronômica do Dia - React, Tailwindcss, Api rest ](https://github.com/7iagoCabral/nasa-apod-Imagem-Astronomica-do-Dia)<br>
+### 10.   Projetos [Projects]
+[🏛️ Preventiva (Delphi - Manutenções Preventivas]<br>
+[✅ SGBDO - PHP + MySql ]<br>
+[🐦 LPNA - Cold Fusion + MySql]<br>
+[❌ RoteadorDB - Python + Oracle + PgSql + MySql ]<br>
+[🚀 SISPROM II - Micro FrontEnd Angular + Microservices Spring Boot]<br>
+[🚀 e outros ...]<br>
 
  
-
----
-
-
-
-
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com/?color=F72783&size=35&center=true&cCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ADRIANO+SEVERINO;I`M+FROM+BRAZIL+I+AM+A+SOFTWARE+ENGINEERING;BE+WELCOME!)](https://git/io/typing-svg)
-
-
-## 👾 Hobbys
-
-
-
-
-
-## Descrição
-
-- **Apps/Clients**: Quatro aplicações diferentes (Java Swing, PHP, Python, Delphi) se conectam ao `roteadorDB`.
-- **roteadorDB**: Um software desenvolvido em Python que funciona como intermediário entre os apps e os bancos de dados.
-- **Bancos de Dados**: `Oracle`, `PgSQL` e `MySQL` são acessados pelo `roteadorDB` que distribui as requisições vindas dos diferentes clientes.
-
-Este diagrama representa como os diversos componentes do sistema interagem entre si, com o `roteadorDB` servindo como um ponto central que gerencia o tráfego de dados entre os clientes e os bancos de dados.
-
-# roteadorDB
-Roteador para banco de dados Oracle, PgSQL, MySql, etc.
-
-
-```mermaid
-%%{
-  init: {
-    'theme': 'forest',
-    'themeVariables': {
-      'lineColor': '#F8B229',
-      'secondaryColor': '#006100',
-      'tertiaryColor': '#fff',
-    }
-  
-}%%
-sequenceDiagram
-    
-    rect rgb(191, 223, 255)
-    participant Java_Swing_App as Java Swing App 
-    participant roteadorDB
-    participant DBMS as Database (DBMS)
-
-    Java_Swing_App->>roteadorDB: HTTP POST {query, db_type}
-    roteadorDB->>DBMS: Connect DB {db_type}
-    Note right of roteadorDB: Rational thoughts!
-    DBMS-->>roteadorDB: Fetch Data
-    roteadorDB-->>Java_Swing_App: JSON {result}
-    end
-```
