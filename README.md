@@ -174,24 +174,24 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
         <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-30A3DC?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-        <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-30A3DC?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0">
+        <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-30A3DC?style=for-the-badge&logo=ubuntu&logoColor=orange">
       </td>
       <td>
-        <img align="center" alt="Kali" src="https://img.shields.io/badge/Kali-30A3DC?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="Kali" src="https://img.shields.io/badge/Kali-30A3DC?style=for-the-badge&logo=kalilinux&logoColor=darkblue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>      
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-30A3DC?style=for-the-badge&logo=debian&logoColor=white">
+        <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-30A3DC?style=for-the-badge&logo=debian&logoColor=red">
       </td>
       <td>
-        <img align="center" alt="Fedora" src="https://img.shields.io/badge/Fedora-30A3DC?style=for-the-badge&logo=fedora&logoColor=white">
+        <img align="center" alt="Fedora" src="https://img.shields.io/badge/Fedora-30A3DC?style=for-the-badge&logo=fedora&logoColor=darkcyan">
       </td>
       <td>
-        <img align="center" alt="Mint" src="https://img.shields.io/badge/Linux%20Mint-30A3DC?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
+        <img align="center" alt="Mint" src="https://img.shields.io/badge/Linux%20Mint-30A3DC?style=for-the-badge&logo=Linux%20Mint&logoColor=green">
       </td>
       <td>
-        <img align="center" alt="Android" src="https://img.shields.io/badge/Android-30A3DC?style=for-the-badge&logo=android&logoColor=white">
+        <img align="center" alt="Android" src="https://img.shields.io/badge/Android-30A3DC?style=for-the-badge&logo=android&logoColor=green">
       </td>      
     </tr>
     <tr>
@@ -217,16 +217,16 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
   <tbody align="left">
     <tr>
       <td>
-        <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-30A3DC?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-30A3DC?style=for-the-badge&logo=git&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
          <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-30A3DC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-         <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-30A3DC?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-30A3DC?style=for-the-badge&logo=node.js&logoColor=green">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-        <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-30A3DC.svg?style=for-the-badge&logo=Postman&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-30A3DC.svg?style=for-the-badge&logo=Postman&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>      
     </tr>
   </tbody>
@@ -241,10 +241,10 @@ Desenvolvedor em constante evolução, apaixonado pelo aprendizado.
   <tbody align="left">
     <tr>
       <td>
-         <img align="center" alt="Joomla" src="https://img.shields.io/badge/joomla-%2330A3DC.svg?style=for-the-badge&logo=joomla&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <img align="center" alt="Joomla" src="https://img.shields.io/badge/joomla-%2330A3DC.svg?style=for-the-badge&logo=joomla&logoColor=lightred">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-         <img align="center" alt="Moodle" src="https://img.shields.io/badge/moodle-%2330A3DC.svg?style=for-the-badge&logo=moodle&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <img align="center" alt="Moodle" src="https://img.shields.io/badge/moodle-%2330A3DC.svg?style=for-the-badge&logo=moodle&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
