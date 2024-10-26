@@ -3,6 +3,7 @@
 
 
 ## 👋🏻 Evaldo de Souza Lima
+♊ 1992 - EEAER - Especialist in Electonic</br>
 ♊ 2008</br>
 💻 Licenciatura em Computação [Bachelor's Degree in Computing] - [Universidade Estadual do Amazonas](https://cursos2.uea.edu.br/index.php?dest=info&curso=72).</br>
 ♊ 2011</br>
